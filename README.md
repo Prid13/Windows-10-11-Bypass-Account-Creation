@@ -106,3 +106,6 @@ Once your bootable drive is made using Rufus, do this:
 3. Reboot your computer, so that it enters your external drive, and then **install Windows from there** by following the instructions
 
 If all went well, then you will NOT be asked to provide any Microsoft account during installation, and your local account will already be set up with the name you chose in Rufus :)
+
+#### Credits
+- Icons from: https://www.flaticon.com/packs/computer-and-hardware-49
