@@ -20,11 +20,12 @@ You will need these things:
   - _this can be bypassed by directly downloading the Windows installation file to the USB drive/HDD/SSD_
  
 ## Table-of-Contents
-1. Install Rufus
-2. Download Windows ISO file
-3. Configure settings
-4. Create bootable external drive (USB/HDD/SSD)
-5. Install Windows on new computer
+1. [Install Rufus](#1-install-rufus)
+2. [Set up Rufus](#2-set-up-rufus)
+3. [Download Windows ISO file](#3-download-windows-iso-file)
+4. [Configure Settings](#4-configure-settings)
+5. **[Create bootable external drive (USB/HDD/SSD) and BYPASS WINDOWS RESTRICTIONS](#5-create-bootable-drive-and-bypass-windows-restrictions)** <-- _this is the step you're looking for_
+6. [Install Windows on new computer](#6-install-windows-on-new-computer)
 
 ## 1. Install Rufus
 
