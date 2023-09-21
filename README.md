@@ -4,7 +4,7 @@ Instructions for how to install Windows 10/11 without needing to create a Micros
 _Simplified version of this tutorial: https://www.makeuseof.com/rufus-bypass-tpm-secure-boot-requirements-windows-11/_
 
 ## TL;DR
-1. Use Rufus to strip the Windows ISO file from any restrictions
+1. Use [Rufus]([url](https://rufus.ie/)) to strip the Windows ISO file from any restrictions
 2. Use Rufus to Create a bootable Windows installation drive
 3. Install Windows on your desired computer with local account
 
